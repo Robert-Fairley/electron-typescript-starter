@@ -11,7 +11,15 @@
     "publish": "electron-forge publish",
     "lint": "eslint src --color"
   },
-  "keywords": [],
+  "keywords": [
+    "electron",
+    "electron-forge",
+    "starter",
+    "typescript",
+    "electron typescript starter",
+    "boilerplate",
+    "electron typescript boilerplate"
+  ],
   "author": "robert.fairley",
   "license": "MIT",
   "config": {
